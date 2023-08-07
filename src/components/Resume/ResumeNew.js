@@ -44,36 +44,7 @@ function ResumeNew() {
         </Row>
 
         
-        <br />
-            <br />
-            <br />
-             
-            <br />
-            <br />
-            <br />
-             
-            <br />
-            <br />
-            <br />
-             
-    
-             
-            <br />
-            <br />
-            <br />
-          
-            <br />
-            <br />
-            <br />
-             
-            <br />
-            <br />
-            <br />
-             
-            <br />
-            <br />
-            <br />
-      
+
       </Container>
     </div>
   );

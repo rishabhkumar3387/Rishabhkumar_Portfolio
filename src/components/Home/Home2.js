@@ -87,7 +87,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-             
+
             </ul>
           </Col>
         </Row>
