@@ -20,11 +20,12 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              something, I think… 🤷‍♂️ and I am excited to leverage the skills and knowledge 
+              I have acquired to contribute meaningfully to the world of technology.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C|C++, Javascript and React.js|Node..s|ExpressJs|MongoDb </b>
+                <b className="purple"> C|C++, Javascript and React.js|Node..s|ExpressJs|MongoDb| MySQl </b>
               </i>
               <br />
               <br />
@@ -33,7 +34,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                 Full MERN STACK DEVELOPER .
+                development and testing of software.
                 </b>
               </i>
               <br />
@@ -48,7 +49,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Express.js</b>
+                <b className="purple"> React.js and Node.js|Express.js</b>
               </i>
             </p>
           </Col>
